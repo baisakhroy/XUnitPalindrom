@@ -1,0 +1,15 @@
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\palindrome-tc.deps.json
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\palindrome-tc.runtimeconfig.json
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\palindrome-tc.runtimeconfig.dev.json
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\palindrome-tc.dll
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\palindrome-tc.pdb
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\palindrome.dll
+C:\C#\palindrome-tc\bin\Debug\netcoreapp2.0\palindrome.pdb
+C:\C#\palindrome-tc\obj\Debug\netcoreapp2.0\palindrome-tc.csproj.CoreCompileInputs.cache
+C:\C#\palindrome-tc\obj\Debug\netcoreapp2.0\palindrome-tc.AssemblyInfoInputs.cache
+C:\C#\palindrome-tc\obj\Debug\netcoreapp2.0\palindrome-tc.AssemblyInfo.cs
+C:\C#\palindrome-tc\obj\Debug\netcoreapp2.0\palindrome-tc.dll
+C:\C#\palindrome-tc\obj\Debug\netcoreapp2.0\palindrome-tc.pdb
